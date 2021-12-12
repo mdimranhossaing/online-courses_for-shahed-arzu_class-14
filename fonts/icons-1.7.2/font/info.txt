@@ -1,0 +1,19 @@
+For HTML
+==================
+1. Maximum Tag and Atributes
+
+For CSS
+==================
+1. Maximum Property and value
+
+For Fonts
+==================
+1. Google fonts
+2. Premium fonts
+
+For Icons
+===================
+1. Google Metrarial Icons
+2. Font-Awesome Icons
+3. Bootstrap Icons
+4. Icofont Icons
